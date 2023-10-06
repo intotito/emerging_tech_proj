@@ -1,2 +1,2 @@
-# emerging_tech_proj
+# Emergin Technologies
 Emerging Technology Project
