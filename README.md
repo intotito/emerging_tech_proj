@@ -55,5 +55,55 @@ A brief introduction to quantum computing concepts relevant to the topic.
 
 A step by step explanation of the Deutsch's Algorithm and their actual implementation using qiskit. 
 
+# View and Running Locally
+
+## Dependencies
+
+### Anaconda
+
+
+#### Windows: 
+
+```
+https://docs.anaconda.com/free/anaconda/install/windows/
+```
+
+#### Linux: 
+
+```
+apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+```
+
+#### MacOS: 
+
+```
+https://docs.anaconda.com/free/anaconda/install/mac-os/
+```
+
+
+### Jupyter
+
+```
+conda install -c anaconda jupyter
+```
+
+### Qiskit
+
+```
+pip install qiskit
+```
+
+### Numpy
+
+```
+pip install numpy
+```
+
+## Run
+
+Clone
+```
+git clone https://github.com/intotito/emerging_tech_proj.git
+```
 
 
